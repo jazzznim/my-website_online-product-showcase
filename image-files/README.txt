@@ -1,0 +1,1 @@
+Image folder for the website. Product and banner photos are currently loaded from Unsplash image links in the HTML and CSS. You can place downloaded image files here and update the image paths if your instructor requires locally stored images.
